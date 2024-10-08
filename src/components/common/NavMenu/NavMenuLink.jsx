@@ -18,7 +18,7 @@ const NavMenuLink = ({ classNameList, classNameLink, onMenuToggled }) => {
     >
       {navDataLink.map(({ id, href, page }) => (
         <li key={id}>
-          <LinkButton href={href}>{page}</LinkButton>
+          <LinkButton className='outline-none shadow-none cursor-pointer  hover:underline focus:underline transition' href={href}>{page}</LinkButton>
         </li>
       ))}
     </ul>
