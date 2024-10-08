@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html,
+#rood,
+.app {
+  background: #3E2810;
+  color: white;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+@media (min-width: 768px) and (max-width: 1279px) {
+  body,
+  html,
+  #rood,
+  .app {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1280px) {
+  body,
+  html,
+  #rood,
+  .app {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
+
+@layer components {
+  .section {
+    @apply py-[54px] md:py-16 lg:py-26;
+  }
+}
+
+@layer utilities {
+  .transition {
+    @apply transition-all duration-300 ease-out;
+  }
+}

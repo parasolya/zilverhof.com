@@ -1,0 +1,22 @@
+[
+ {
+    "id": 2,
+    "to": "hero",
+    "section": "Thuis"
+  },
+  {
+    "id": 3,
+    "to": "about",
+    "section": "Over ons"
+  },
+  {
+    "id": 4,
+    "to": "accommodation",
+    "section": "Accommodatie"
+  },
+  {
+    "id": 5,
+    "to": "restaurants",
+    "section": "Restaurants en Culinair"
+  }
+]
