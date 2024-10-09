@@ -1,12 +1,12 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
 import NavMenu from "@/components/common/NavMenu/NavMenu";
 import Logo from "@/components/ui/Logo";
-import { useEffect, useState } from "react";
 import Button from "@/components/ui/Button";
 import MenuIcon from "/public/menu.svg";
-import { BurgerMenu } from "@/components/common/BurgerMenu/BurgerMenu";
+import BurgerMenu from "@/components/common/BurgerMenu/BurgerMenu";
 
 const Header = () => {
   const [isMenuToggled, setIsMenuToggled] = useState(false);

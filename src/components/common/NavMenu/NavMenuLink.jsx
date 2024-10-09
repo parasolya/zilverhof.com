@@ -1,6 +1,7 @@
+import clsx from "clsx";
 import LinkButton from "@/components/ui/LinkButton";
 import { navDataLink } from "@/data";
-import clsx from "clsx";
+
 
 const NavMenuLink = ({ classNameList, classNameLink, onMenuToggled }) => {
   const handleMenuClick = () => {

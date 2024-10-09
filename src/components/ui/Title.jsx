@@ -1,6 +1,5 @@
 import clsx from "clsx";
 
-
 const Title = ({ title,  titleClassName }) => {
   return (
     <>

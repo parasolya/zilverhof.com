@@ -1,10 +1,4 @@
-
-
-import { navData } from "@/data";
 import clsx from "clsx";
-import { Link as LinkScroll } from "react-scroll";
-
-import { useRouter } from "next/router";
 import NavMenuScroll from "./NavMenuScroll";
 import NavMenuLink from "./NavMenuLink";
 

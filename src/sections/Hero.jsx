@@ -1,6 +1,5 @@
 "use client";
 
-import ScrollButton from "@/components/ui/ScrollButton";
 import { heroData } from "@/data";
 import Image from "next/image";
 

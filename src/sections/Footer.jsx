@@ -1,6 +1,3 @@
-import Logo from "@/components/ui/Logo";
-import Email from "@/components/ui/Email";
-import Phone from "@/components/ui/PhoneNumber";
 import { footerData, routesData } from "@/data";
 import LinkButton from "@/components/ui/LinkButton";
 

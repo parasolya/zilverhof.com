@@ -1,4 +1,3 @@
-import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/sections/Header";
 import Footer from "@/sections/Footer";
@@ -6,8 +5,11 @@ import Footer from "@/sections/Footer";
 
 
 export const metadata = {
-  title: "Idealcasinonline",
-  description: "Parc Broekhuizen met casino speelkamer l Culinair landgoed",
+  title: "Zilverhof",
+  description: "Landgoed Zilverhof met casino speelkamer is een culinair landgoed waar luxe en geschiedenis samenkomen.",
+  icons: {
+    icon: "/crown.svg",  
+  },
 };
 
 export default function RootLayout({ children }) {

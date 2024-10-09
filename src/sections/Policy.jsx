@@ -1,5 +1,4 @@
 import Title from "@/components/ui/Title";
-import React from "react";
 
 const Policy = () => {
   return (

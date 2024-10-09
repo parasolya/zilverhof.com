@@ -7,7 +7,7 @@ import Logo from "@/components/ui/Logo";
 import Button from '@/components/ui/Button';
 import NavMenu from '../NavMenu/NavMenu';
 
-export const BurgerMenu = ({ handleMenuToggled, isOpened, handleClick, className }) => {
+const BurgerMenu = ({ handleMenuToggled, isOpened, handleClick, className }) => {
   return (
     <div
       className={clsx(
@@ -37,3 +37,5 @@ export const BurgerMenu = ({ handleMenuToggled, isOpened, handleClick, className
     </div>
   );
 };
+
+export default BurgerMenu;

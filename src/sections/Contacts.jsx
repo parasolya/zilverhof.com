@@ -4,7 +4,6 @@ import Location from "@/components/ui/Location";
 import Map from "@/components/ui/Map";
 import Phone from "@/components/ui/PhoneNumber";
 import Title from "@/components/ui/Title";
-import { navDataLink } from "@/data";
 import React from "react";
 
 const Contacts = () => {
