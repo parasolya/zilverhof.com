@@ -11,22 +11,22 @@
     {
       "id": 1,
       "src": "/accommodation/accommodation-1.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "Gastenverblijf in het kasteel in witte kleuren"
     },
     {
       "id": 2,
       "src": "/accommodation/accommodation-2.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "Gastenverblijf in het kasteel in blauwe kleuren"
     },
     {
       "id": 3,
       "src": "/accommodation/accommodation-3.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "Gastenverblijf in het kasteel in rode kleuren"
     },
     {
       "id": 4,
       "src": "/accommodation/accommodation-4.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "Gastenverblijf in het kasteel in gele kleuren"
     }
   ]
 }

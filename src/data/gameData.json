@@ -11,22 +11,22 @@
     {
       "id": 1,
       "src": "/game/game-1.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "De croupier gooit het balletje op het roulettewiel"
     },
     {
       "id": 2,
       "src": "/game/game-2.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "De croupier deelt de kaarten uit"
     },
     {
       "id": 3,
       "src": "/game/game-3.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "De croupier deelt de fiches uit"
     },
     {
       "id": 4,
       "src": "/game/game-4.jpg",
-      "alt": "Gastenverblijf in het kasteel"
+      "alt": "De vrouwelijke croupier op de achtergrond van het roulettewiel"
     }
   ]
 }

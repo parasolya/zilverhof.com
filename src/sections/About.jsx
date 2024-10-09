@@ -19,7 +19,7 @@ const About = () => {
                 className="object-cover"
                 fill
                 src="/about/about-1.jpg"
-                alt="Landgoed Zilverhof"
+                alt="Wijngaarden van Landgoed Zilverhof"
                 sizes="600px"
                 priority
               />
@@ -37,7 +37,7 @@ const About = () => {
                 className="object-cover"
                 fill
                 src="/about/about-2.jpg"
-                alt="Landgoed Zilverhof"
+                alt="Binnentuin van Landgoed Zilverhof"
                 sizes="600px"
                 priority
               />

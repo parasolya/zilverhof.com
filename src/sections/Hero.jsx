@@ -13,7 +13,7 @@ const Hero = () => {
               className="object-cover"
               fill
               src="/hero/hero.jpg"
-              alt="Het Landgoed Zilverhof"
+              alt="Landgoed Zilverhof is omringd door wolken"
               sizes="600px"
               priority
             />

@@ -17,7 +17,7 @@ const Restaurants = () => {
                 className="object-cover"
                 fill
                 src="/restaurants/restaurants-1.jpg"
-                alt="Landgoed Zilverhof"
+                alt="Oesters op een schaal"
                 sizes="600px"
                 priority
               />
@@ -35,7 +35,7 @@ const Restaurants = () => {
                 className="object-cover"
                 fill
                 src="/restaurants/restaurants-2.jpg"
-                alt="Landgoed Zilverhof"
+                alt="Gebakken kaas"
                 sizes="600px"
                 priority
               />
